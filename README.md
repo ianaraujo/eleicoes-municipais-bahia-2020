@@ -12,5 +12,18 @@ Algumas visualizações:
 
 ![Figura 4](/viz/gráfico/n_vereadores_eleitos.png)
 
+![Figura 5](/viz/gráfico/covid_abstencoes.png)
+
+Alguns mapas: 
+
+![Mapa 1](/viz/mapa/mapa_prefeituras.png)
+
+![Mapa 2](/viz/mapa/vereadores_dem_pt.png)
+
+![Mapa 3](/viz/mapa/portal do sertão.png)
+
+
+
+
 
 
