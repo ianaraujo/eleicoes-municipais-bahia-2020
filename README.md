@@ -1,4 +1,4 @@
-# Eleições Municipais 2020 no estado da Bahia - Tribunal Regional Eleitoral 
+# Eleições Municipais 2020 - Tribunal Regional Eleitoral da Bahia
 
 Trabalho de análise e visualização de dados do resultado das eleições municipais de 2020 no estado da Bahia. Apresentação dos resultados em evento do Tribunal Regional Eleitoral da Bahia (TRE-BA)
 
